@@ -1,4 +1,4 @@
-#pos 收银机
+#little-little-pos 需求描述和代码小步提交简介
 
 ##需求描述
 
@@ -139,6 +139,12 @@
 ##代码实现描述
 
 pos 代码使用了 travis CI, jasmine, heroku, webpack 的部署环境。
+
+## little-little-pos 代码小步提交简介
+
+little-little-pos 代码提交：　先是提交了整个代码正个框架和环境的搭建，然后逐步提交每个功能的测试，和相应的实现代码，
+直到简单功能的实现（pos v0.1）,　然后在提交代码的简单重构（code refactoring），webpack 打包（webpack pack）,
+和　ES6 语法的尝试（ES6 achieve v0.2），和最终作业的提交。
 
 
 ###提交作业小组成员：
