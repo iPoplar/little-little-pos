@@ -146,12 +146,3 @@ pos 代码使用了 travis CI, jasmine, heroku, webpack 的部署环境。
 黄丽珍：https://github.com/DH-TB/little-little-pos
 
 白孟毅：https://github.com/iPoplar/little-little-pos
-
-###不足
-
- webpack 没有实现需求，使得在 Heroku 部署的
- http://little-little-pos.herokuapp.com 的　app 不能正确实现。
-
-
-
-
