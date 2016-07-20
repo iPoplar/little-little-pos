@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/iPoplar/little-little-pos#readme",
   "devDependencies": {
-    "jasmine": "^2.4.1"
+    "express": "^4.14.0",
+    "jasmine": "^2.4.1",
+    "webpack": "^1.13.1"
   }
 }
